@@ -201,9 +201,19 @@
 }
 
 .card img{
-    width: 150px;
+    width: 200px;
     height: 150px;
 }
+
+.card2 img{
+  width: 150px;
+  height: 150px;
+}
+
+/*.card3{
+  width: 205px;
+  height: 150px;
+}*/
 
 .banner {
     padding: 50px 0;
